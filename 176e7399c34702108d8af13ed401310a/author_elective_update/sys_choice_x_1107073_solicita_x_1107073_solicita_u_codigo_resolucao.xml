@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_codigo_resolucao" table="x_1107073_solicita_x_1107073_solicita" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_codigo_resolucao</element>
+            <name>x_1107073_solicita_x_1107073_solicita</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 23:54:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_codigo_resolucao</sys_name>
+            <sys_package display_value="Solicitação" source="x_1107073_solicita">176e7399c34702108d8af13ed401310a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação">176e7399c34702108d8af13ed401310a</sys_scope>
+            <sys_update_name>sys_choice_x_1107073_solicita_x_1107073_solicita_u_codigo_resolucao</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 23:54:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_codigo_resolucao</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fechado com sucesso</label>
+            <language>en</language>
+            <name>x_1107073_solicita_x_1107073_solicita</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 23:54:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 23:54:07</sys_updated_on>
+            <value>fechado_sucesso</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_codigo_resolucao</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fechado com problema</label>
+            <language>en</language>
+            <name>x_1107073_solicita_x_1107073_solicita</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 23:54:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 23:54:07</sys_updated_on>
+            <value>fechado_problema</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_codigo_resolucao</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fechado sem resolução</label>
+            <language>en</language>
+            <name>x_1107073_solicita_x_1107073_solicita</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-26 23:54:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-26 23:54:07</sys_updated_on>
+            <value>fechado sem resolução</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

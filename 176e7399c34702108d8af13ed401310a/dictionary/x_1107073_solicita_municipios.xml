@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f48904adc38702108d8af13ed4013159" extends="sys_import_set_row" label="Importação de Municipios" max_length="40" name="x_1107073_solicita_municipios" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=UF" label="UF" max_length="40" name="u_uf" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Região" label="Região" max_length="40" name="u_região" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sintaxe" label="Sintaxe" max_length="40" name="u_sintaxe" type="string"/>
+        <element attributes="import_attribute_name=Qtd Mun" label="Qtd Mun" max_length="40" name="u_qtd_mun" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Estado" label="Estado" max_length="40" name="u_estado" type="string"/>
+        <element attributes="import_attribute_name=IBGE" label="IBGE" max_length="40" name="u_ibge" type="integer"/>
+    </element>
+</database>

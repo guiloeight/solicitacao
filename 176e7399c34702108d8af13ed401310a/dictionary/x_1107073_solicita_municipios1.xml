@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa8a8cadc38702108d8af13ed40131b1" label="Municipios" max_length="40" name="x_1107073_solicita_municipios1" type="collection">
+        <element label="Estado" max_length="255" name="estado" type="string_full_utf8"/>
+        <element label="Qnt Mun" max_length="255" name="qnt_mun" type="string_full_utf8"/>
+        <element label="UF" max_length="255" name="uf" type="string_full_utf8"/>
+        <element label="Região" max_length="255" name="regiao" type="string_full_utf8"/>
+        <element label="Sintaxe" max_length="255" name="sintaxe" type="string_full_utf8"/>
+        <element label="IBGE" max_length="255" name="ibge" type="string_full_utf8"/>
+    </element>
+</database>
